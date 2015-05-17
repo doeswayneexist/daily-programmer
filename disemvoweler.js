@@ -1,7 +1,5 @@
 var userString = prompt("Type in a sentence.");
 
-//take the string and strip it of all vowels
-
 //create a variable to store the new string
 var noVowels = "";
 var vowels = "";
